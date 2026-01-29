@@ -37,6 +37,17 @@ This structure can be easily extended by modifying the category mapping.
 
 ---
 
+## Output Example
+
+Below is an example showing files automatically organized into
+category folders after running the script:
+
+![File Organizer Output](images/result1.png)
+![File Organizer Output](images/result2.png)
+
+
+---
+
 ## Tech Stack
 - Python
 - `os` module (directory and file handling)
