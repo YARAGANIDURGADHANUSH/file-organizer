@@ -41,8 +41,9 @@ This structure can be easily extended by modifying the category mapping.
 
 Below is an example showing files automatically organized into
 category folders after running the script:
-
+ downloads:
 ![File Organizer Output](images/result1.png)
+ exams:
 ![File Organizer Output](images/result2.png)
 
 
